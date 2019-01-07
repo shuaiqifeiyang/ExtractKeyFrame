@@ -1,4 +1,0 @@
-﻿  video2.cpp
-c:\users\3160105367\source\repos\video2\video2\video2.cpp(260): warning C4326: “main”的返回类型应为“int”而非“void”
-c:\users\3160105367\source\repos\video2\video2\video2.cpp(265): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-  video2.vcxproj -> C:\Users\3160105367\source\repos\video2\x64\Debug\video2.exe

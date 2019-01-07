@@ -11,11 +11,15 @@ It‘s a very simple algorithm to extract key frame.
 
 **The result of the Algorithm 1:**
 
+![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/result/result1.png?raw=true)
+
 ## Algorithm 2
 
 Algorithm 2 is a little advanced. I referenced an ancient paper(*Yueting Zhuang, Yong Rui, Thomas S. Huang,*
 *Sharad  Mehrotra., Adaptive Key Frame Extraction Using Unsupervised Clustering, IEEE ICIP'98, Chicago, USA, 98.10.*</u> )   But the difference is I compare the similarity of two images by a different method mentioned above.
 
 **The result of Algorithm 2:**
+
+![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/result/result2.png?raw=true)
 
 **Last but not least, If you want to run the program in your computer, confirm you have the environment of OpenCV**
