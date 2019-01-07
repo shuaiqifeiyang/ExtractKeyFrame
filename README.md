@@ -11,7 +11,7 @@ It‘s a very simple algorithm to extract key frame.
 
 **The result of the Algorithm 1:**
 
-![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/result/result1.png?raw=true)
+![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/testcase/result1.png?raw=true)
 
 ## Algorithm 2
 
@@ -20,6 +20,6 @@ Algorithm 2 is a little advanced. I referenced an ancient paper(*Yueting Zhuang,
 
 **The result of Algorithm 2:**
 
-![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/result/result2.png?raw=true)
+![](https://github.com/zjulzy/ExtractKeyFrame/blob/master/testcase/result2.png?raw=true)
 
 **Last but not least, If you want to run the program in your computer, confirm you have the environment of OpenCV**
