@@ -1,5 +1,5 @@
 # ExtractKeyFrame
-It contains two algorithm extracting key frame. Before explaining them, I say something about comparing the similarity of tow images. In the next two algorithms, I use hash number of image to compare the similarity of two pictures. This algorithm is from [](https://blog.csdn.net/fengbingchun/article/details/42153261) . 
+It contains two algorithm extracting key frame. Before explaining them, I say something about comparing the similarity of tow images. In the next two algorithms, I use hash number of image to compare the similarity of two pictures. This algorithm is from [click here！](https://blog.csdn.net/fengbingchun/article/details/42153261) . 
 
 ## Algorithm 1
 
